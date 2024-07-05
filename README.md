@@ -25,3 +25,4 @@ Booking Management: View, modify, or cancel bookings directly from the app.
 
 The Oasis Spacebar mobile application aims to revolutionize the booking process for luxury resorts by combining personalized service with the efficiency of automation. By addressing the recommendations outlined, the app can elevate user satisfaction, streamline operations, and maintain a competitive edge in the luxury resort booking sector.
 
+To test our app try to go to this link : <u>https://www.figma.com/proto/TiEQSy1JC2t7YmijJhBzAU/SpaceBar-App?node-id=4-9&t=t5ThCRBK50zrlR7J-1<u>
